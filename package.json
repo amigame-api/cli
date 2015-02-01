@@ -1,7 +1,7 @@
 {
 	"name": "amigame-cli",
 	"description": "Command-line interface for Amigame",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
